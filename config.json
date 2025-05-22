@@ -7,5 +7,5 @@
     ],
     "botName": "Autobot=[/]",
     
-    "mongoUri": "mongo"
+    "mongoUri": ""
 }
